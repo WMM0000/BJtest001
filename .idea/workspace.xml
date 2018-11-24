@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85ce7182-f037-4a45-a86f-4376671874d6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Base/base.py" afterPath="$PROJECT_DIR$/Base/base.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +17,8 @@
       <file leaf-file-name="base.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Base/base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            <state relative-caret-position="186">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -112,12 +113,12 @@
       <list>
         <option value="$PROJECT_DIR$/Scripts/test01.py" />
         <option value="$PROJECT_DIR$/Page/page_login.py" />
-        <option value="$PROJECT_DIR$/Base/base.py" />
         <option value="$PROJECT_DIR$/pytest.ini" />
         <option value="$PROJECT_DIR$/Base/get_driver.py" />
         <option value="$PROJECT_DIR$/Scripts/test02.py" />
         <option value="$PROJECT_DIR$/Scripts/test_login.py" />
         <option value="$PROJECT_DIR$/Base/base1.py" />
+        <option value="$PROJECT_DIR$/Base/base.py" />
       </list>
     </option>
   </component>
@@ -154,6 +155,11 @@
             <path>
               <item name="Day05" type="b2602c69:ProjectViewProjectNode" />
               <item name="Day05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day05" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day05" type="462c0819:PsiDirectoryNode" />
+              <item name="Base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Day05" type="b2602c69:ProjectViewProjectNode" />
@@ -435,8 +441,8 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
     <entry file="file://$PROJECT_DIR$/Base/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="186">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
